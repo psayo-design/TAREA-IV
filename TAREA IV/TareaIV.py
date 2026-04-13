@@ -205,10 +205,3 @@ def menu():
 
 if __name__ == "__main__":
     menu()
-
-# ------------------------------
-# Ejemplos de CSV (crear manualmente)
-# ------------------------------
-# archivo1.csv -> 10,20,30,40,50
-# archivo2.csv -> 15,5,20,3,7,18
-# archivo3.csv -> 8,4,12,2,6,10,14
